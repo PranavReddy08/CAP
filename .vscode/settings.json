@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "student",
+            "database": "CAP/Practice/db.sqlite"
+        }
+    ]
+}

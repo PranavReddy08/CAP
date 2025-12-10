@@ -1,0 +1,12 @@
+### Get mixin
+http://localhost:4004/odata/v4/student/student
+
+###Post
+POST http://localhost:4004/odata/v4/student/Boost
+Content-Type: application/json
+
+{
+  "id": 2
+}
+
+

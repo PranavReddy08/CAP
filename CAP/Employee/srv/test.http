@@ -1,0 +1,50 @@
+### Get Employee
+GET http://localhost:4004/odata/v4/employee/Employee
+
+### POST Email Validation
+POST http://localhost:4004/odata/v4/employee/Employee
+Content-Type: application/json
+
+ {
+      "firstName": "Aisha",
+      "lastName": "Sharma",
+      "email": "aisha.sharma@company.com",
+      "joinDate": "2022-06-15",
+      "status": "Active",
+      "department_ID": "7f1d9a2e-a111-4d01-9c33-001000000000",
+      "role_ID": "8a1d4b3e-b222-4f02-a221-104000000000"
+    }
+
+### Delete a department
+DELETE http://localhost:4004/odata/v4/employee/Department(7f1d9a2e-a111-4d01-9c33-001000000000)
+
+### get last active
+POST http://localhost:4004/odata/v4/employee/localhost:4004/odata/v4/employee/getlastactive
+Content-Type: application/json
+
+{
+  "date": "2025-09-09"
+}
+
+###
+GET http://localhost:4004/odata/v4/employee/getlastactive(date=2025-09-09)
+
+### post attendence
+POST http://localhost:4004/odata/v4/employee/Attendance
+Content-Type: application/json
+
+ {
+      "date": "2024-01-10",
+      "checkIn": "12:01:00",
+      "checkOut": "17:45:00",
+      "employee_ID": "9b2f6c4e-c333-4f03-b112-201000000000"
+    }
+
+###
+POST http://localhost:4004/odata/v4/employee/Employee/setStatus
+Content-Type: application/json
+
+{
+ "ID": "9b2f6c4e-c333-4f03-b112-201000000000"
+}
+

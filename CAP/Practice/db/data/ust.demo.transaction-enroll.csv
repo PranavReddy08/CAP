@@ -1,0 +1,4 @@
+ID,student_id,semester_id,validFrom,validTo,createdAt,createdBy,modifiedAt,modifiedBy
+1001,101,2025-01-01,2026-01-01 
+1002,101,2024-01-01,2025-01-01
+1003,102,2022-01-01,2024-01-02

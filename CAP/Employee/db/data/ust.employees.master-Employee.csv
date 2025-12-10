@@ -1,0 +1,5 @@
+ID,firstName,lastName,email,joinDate,status,department_ID,role_ID
+9b2f6c4e-c333-4f03-b112-201000000000,Pranav,Reddy,pranav.reddy@company.com,2023-01-10,Active,7f1d9a2e-a111-4d01-9c33-003000000000,8a1d4b3e-b222-4f02-a221-102000000000
+9b2f6c4e-c333-4f03-b112-202000000000,Aisha,Sharma,aisha.sharma@company.com,2022-06-15,Active,7f1d9a2e-a111-4d01-9c33-001000000000,8a1d4b3e-b222-4f02-a221-104000000000
+9b2f6c4e-c333-4f03-b112-203000000000,Rohit,Verma,rohit.verma@company.com,2021-09-01,Inactive,7f1d9a2e-a111-4d01-9c33-004000000000,8a1d4b3e-b222-4f02-a221-101000000000
+9b2f6c4e-c333-4f03-b112-204000000000,Meena,Gupta,meena.gupta@company.com,2023-03-05,Active,7f1d9a2e-a111-4d01-9c33-003000000000,8a1d4b3e-b222-4f02-a221-103000000000
