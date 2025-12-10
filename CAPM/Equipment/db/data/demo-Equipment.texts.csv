@@ -1,0 +1,17 @@
+EquipID,locale,Description
+EQ-100001,en,Filling Line 1 - PET Bottles
+EQ-100002,en,Shrink Wrap Machine
+EQ-200001,en,Boiler Unit
+EQ-300001,en,Conveyor Belt A
+EQ-300002,en,Labeling Machine
+EQ-100001,de,Abfüllanlage 1 - PET-Flaschen
+EQ-100002,de,Schrumpfverpackungsmaschine
+EQ-200001,de,Kesseleinheit
+EQ-300001,de,Förderband A
+EQ-300002,de,Etikettiermaschine
+EQ-100001,hi,भरने की पंक्ति 1 - पीईटी बोतलें
+EQ-100002,hi,लपेटने की मशीन सिकोड़ें
+EQ-200001,hi,बॉयलर इकाई
+EQ-300001,hi,कन्वेयर बेल्ट A
+EQ-300002,hi,लेबलिंग मशीन
+EQ-300002,jp,ラベル貼付機

@@ -1,0 +1,10 @@
+ProductID,OrderID,Product,Quantity,NetAmount,Currency_code
+101,1001,Arc Reactor,1,1500.00,USD
+102,1001,Iron Armor Plates,5,950.00,USD
+103,1002,Shield Vibranium,1,1200.00,USD
+104,1002,Bootcamp Pass,2,620.00,USD
+105,1003,Spy Gear,3,960.00,EUR
+106,1003,Combat Suit,1,600.00,EUR
+107,1004,Gamma Analyzer,2,980.00,USD
+108,1005,Magic Crystal,2,2200.00,EUR
+109,1005,Red Chaos Cloak,1,900.00,EUR

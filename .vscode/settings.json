@@ -3,8 +3,13 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
+<<<<<<< HEAD
             "name": "student",
             "database": "CAP/Practice/db.sqlite"
+=======
+            "database": "${workspaceFolder:projects}/CAPM/Equipment/db.sqlite",
+            "name": "tables"
+>>>>>>> f09666a (Initial)
         }
     ]
 }

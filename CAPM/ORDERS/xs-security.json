@@ -1,0 +1,20 @@
+{
+  "xsappname": "Logistics-app",
+  "tenant-mode": "shared",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.User",
+      "description": "Default user scope"
+    }
+  ],
+  "role-templates": [
+    {
+      "name": "User",
+      "description": "Default role for end users",
+      "scope-references": [
+        "$XSAPPNAME.User"
+      ]
+    }
+  ],
+  "attributes": []
+}
